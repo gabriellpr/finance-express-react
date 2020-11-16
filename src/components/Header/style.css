@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Goldman&family=Roboto:wght@300&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: rgb(0, 0, 0);
+  font-family: "Roboto", sans-serif;
+}
+
+div.title {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+div.title ul {
+  display: flex;
+}
+
+div.title ul li {
+  list-style: none;
+  padding: 5px;
+}
+
+div.title ul li a {
+  text-decoration: none;
+}

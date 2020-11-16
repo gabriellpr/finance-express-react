@@ -1,13 +1,12 @@
+import "./style.css";
+
 function Header() {
   return (
-    <div>
+    <div className="title">
       <h1>Finance Express</h1>
       <ul>
         <li>
-          <a>Robos</a>
-        </li>
-        <li>
-          <a>Contato</a>
+          <a>Criar conta</a>
         </li>
         <li>
           <a>login</a>
