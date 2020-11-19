@@ -6,10 +6,10 @@ function Header() {
       <h1>Finance Express</h1>
       <ul>
         <li>
-          <a>Criar conta</a>
+          <a className="cadastro">Criar conta</a>
         </li>
         <li>
-          <a>login</a>
+          <a>Login</a>
         </li>
       </ul>
     </div>

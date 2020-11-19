@@ -13,4 +13,18 @@
 .noticias {
   text-align: center;
   padding-top: 5%;
+  width: 700px;
+  color: white;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.noticias h1 {
+}
+
+.noticias img {
+  height: 200px;
+  width: 400px;
 }
