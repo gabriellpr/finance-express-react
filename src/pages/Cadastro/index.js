@@ -1,4 +1,3 @@
-import "./style.css";
 import Cadastro from "../../pages/Cadastro";
 
 function Header() {

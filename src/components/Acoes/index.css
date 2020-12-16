@@ -8,9 +8,29 @@
 .acoes {
   text-align: center;
   padding-top: 5%;
+
+  width: 100px;
+  color: white;
+
+  border-radius: 5px;
+  box-shadow: 0 0 8px white;
+  padding: 20px;
+  margin-top: 90px;
+  margin-bottom: 20px;
 }
 
-.noticias {
-  text-align: center;
-  padding-top: 5%;
+.align-acoes {
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+  justify-content: space-around;
+}
+
+p.symbol {
+  color: yellow;
+}
+
+p.change-percent {
+  color: green;
 }
