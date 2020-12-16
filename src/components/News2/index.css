@@ -10,7 +10,7 @@ a {
   display: flex;
   flex-direction: row;
   align-items: center;
-  padding-left: 10%;
+  padding-left: 7%;
   margin-top: 5%;
 }
 
@@ -68,7 +68,7 @@ a {
 .footer-news {
   display: flex;
   align-items: center;
-  margin-left: 15%;
+  margin-left: 18%;
 }
 
 .footer-subnews {
